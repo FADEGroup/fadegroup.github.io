@@ -8,32 +8,30 @@ nav_order: 2
 ---
 
 <style>
-  /* 1. Fix Image Aspect Ratio */
+  /* 1. STUDENT CARDS */
   .team-card-img {
     height: 250px;
-    width: 100%; /* Ensures image fills the card width */
-    object-fit: cover; /* Prevents stretching */
+    width: 100%; 
+    object-fit: cover; 
   }
   
-  /* 2. Fix PI Image for Mobile */
-  /* On mobile, we limit the PI image height so it doesn't take the whole screen */
+  /* 2. PI IMAGE FIX (Auto height to prevent cropping) */
   .pi-img {
-    height: 300px;
-    width: 100%;
-    object-fit: cover;
+    width: 100%;      
+    height: auto;     
+    max-height: 400px; 
+    object-fit: cover; 
+    border-radius: 4px 4px 0 0; 
   }
+
+  /* Mobile Tweaks */
   @media (max-width: 576px) {
-    .pi-img {
-      height: 250px; /* Slightly smaller on phones */
+    .team-card-img {
+      height: 150px; /* Smaller student photos on mobile */
     }
   }
 
-  .chip-img {
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
-  }
-  
+  /* Icons & Hover Effects */
   .linkedin-icon {
     color: #0077b5;
     text-decoration: none;
@@ -54,7 +52,7 @@ nav_order: 2
   {% for member in site.data.team.pi %}
   <div class="col-sm-4">
     <div class="card border-0 z-depth-1">
-      <img class="card-img-top pi-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+      <img class="pi-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
     </div>
   </div>
   <div class="col-sm-8 mt-3 mt-sm-0">
@@ -79,7 +77,8 @@ nav_order: 2
   <div class="col-6 col-md-3 mb-4">
     <div class="card h-100 z-depth-1 border-0">
       <img class="card-img-top team-card-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
-      <div class="card-body text-center p-2"> <h5 class="card-title mb-1" style="font-size: 1.1rem;">{{ member.name }}</h5>
+      <div class="card-body text-center p-2"> 
+        <h5 class="card-title mb-1" style="font-size: 1.1rem;">{{ member.name }}</h5>
         <p class="card-text text-muted small mb-2">{{ member.role }}</p>
         
         {% if member.linkedin %}
@@ -113,3 +112,26 @@ nav_order: 2
   </div>
   {% endfor %}
 </div>
+
+
+<h3 class="mb-4 mt-4">Undergraduate Researchers</h3>
+<div class="row">
+  {% for member in site.data.team.btech %}
+  <div class="col-6 col-md-3 mb-4">
+    <div class="card h-100 z-depth-1 border-0">
+      <img class="card-img-top team-card-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+      <div class="card-body text-center p-2">
+        <h5 class="card-title mb-1" style="font-size: 1.1rem;">{{ member.name }}</h5>
+        <p class="card-text text-muted small mb-2">{{ member.role }}</p>
+        
+        {% if member.linkedin %}
+        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon">
+          <i class="fab fa-linkedin fa-2x"></i>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
