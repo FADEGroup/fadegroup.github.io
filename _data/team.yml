@@ -38,16 +38,16 @@ mtech:
     linkedin: https://linkedin.com/in/username
   # Row 2
   - name: Kartik Iyer
-    photo: assets/img/kartik.jpg
+    photo: assets/img/kartik.jpeg
     linkedin: https://linkedin.com/in/username
   - name: Ravi 
-    photo: assets/img/ravi.jpg
+    photo: assets/img/ravi.jpeg
     linkedin: https://linkedin.com/in/username
   - name: Jahanvi Gajera
     photo: assets/img/avatar.jpg
     linkedin: https://linkedin.com/in/username
   - name: Aditya
-    photo: assets/img/aditya.jpg
+    photo: assets/img/aditya.jpeg
     linkedin: https://linkedin.com/in/username
 
 # -----------------------------------------------------------------------------

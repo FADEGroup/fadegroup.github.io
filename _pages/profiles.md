@@ -3,6 +3,8 @@ layout: page
 title: People
 permalink: /people/
 description: Meet our research group.
+nav: true
+nav_order: 2
 ---
 
 <style>
@@ -52,7 +54,7 @@ description: Meet our research group.
     
     {% if member.url %}
     <a href="{{ member.url }}" class="btn btn-sm btn-outline-primary" target="_blank">
-      <i class="fas fa-globe"></i> Research Group / Website
+      <i class="fas fa-globe"></i> Website
     </a>
     {% endif %}
   </div>
@@ -61,7 +63,7 @@ description: Meet our research group.
 
 <hr>
 
-<h3 class="mb-4 mt-4">PhD Scholars</h3>
+<h3 class="mb-4 mt-4">PhD Students</h3>
 <div class="row">
   {% for member in site.data.team.phd %}
   <div class="col-12 col-sm-6 col-md-3 mb-4">
@@ -82,7 +84,7 @@ description: Meet our research group.
   {% endfor %}
 </div>
 
-<h3 class="mb-4 mt-4">Master's Students</h3>
+<h3 class="mb-4 mt-4">M.Tech Students</h3>
 <div class="row">
   {% for member in site.data.team.mtech %}
   <div class="col-12 col-sm-6 col-md-3 mb-4">
@@ -103,25 +105,6 @@ description: Meet our research group.
   {% endfor %}
 </div>
 
-<h3 class="mb-4 mt-4">Project Staff</h3>
-<div class="row">
-  {% for member in site.data.team.ra %}
-  <div class="col-12 col-sm-6 col-md-3 mb-4">
-    <div class="card h-100 z-depth-1 border-0">
-      <img class="card-img-top team-card-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
-      <div class="card-body text-center">
-        <h5 class="card-title mb-1">{{ member.name }}</h5>
-        <p class="card-text text-muted small mb-2">{{ member.role }}</p>
-        
-        {% if member.linkedin %}
-        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon" title="Connect on LinkedIn">
-          <i class="fab fa-linkedin fa-2x"></i>
-        </a>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-  {% endfor %}
 </tbody>
   </table>
 </div>
