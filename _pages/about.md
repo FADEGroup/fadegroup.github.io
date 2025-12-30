@@ -35,6 +35,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an Assistant Professor in the [Department of Computer Science and Engineering](https://iitj.ac.in/computer-science-engineering/), Indian Institute of Technology Jodhpur. I received my PhD from the [Department of Computer Science and Engineering at the Indian Institute of Technology Kanpur](https://cse.iitk.ac.in/) supervised by [Dr. Vinay P. Namboodiri](https://vinaypn.github.io/) and [Dr. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/). My Research areas include Bias Mitigation, Generative Models, Medical Image Processing, Few-Shot Learning, Zero-Shot Learning, Incremental Learning, Deep Learning, Computer Vision, Machine Learning.
 
+The **Fairness And Data Efficiency (FADE)** Group at the [Indian Institute of Technology Jodhpur](https://iitj.ac.in/), led by [Dr Pratik Mazumder](https://sites.google.com/view/pratikmazumder/), focuses on developing equitable AI systems and advancing deep learning techniques for data-constrained environments, with applications in bias mitigation and medical image processing.
+
 [CV](https://drive.google.com/file/d/17-VDtItJV99RmM9dKdnKVnOD9wm7Nj72/view) | [Google Scholar](https://scholar.google.com/citations?user=WxLYb5QAAAAJ&hl=en)
 
 **Note:** I am looking for motivated PhD, B.Tech., and M.Tech. students with at least some experience in Deep Learning. 
