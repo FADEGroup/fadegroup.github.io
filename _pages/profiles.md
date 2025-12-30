@@ -77,7 +77,6 @@ description: Meet our research group.
   </div>
   {% endfor %}
 </div>
-      {% endfor %}
     </tbody>
   </table>
 </div>
