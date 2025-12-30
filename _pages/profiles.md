@@ -104,7 +104,3 @@ nav_order: 2
   </div>
   {% endfor %}
 </div>
-
-</tbody>
-  </table>
-</div>
