@@ -245,6 +245,7 @@ $ git remote add upstream https://github.com/alshedivat/al-folio.git
 $ git fetch upstream
 $ git rebase v0.14.7
 ```
+#check
 
 If you have extensively customized a previous version, it might be trickier to upgrade.
 You can still follow the steps above, but `git rebase` may result in merge conflicts that must be resolved.
