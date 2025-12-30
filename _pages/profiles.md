@@ -109,7 +109,7 @@ nav_order: 2
 </div>
 
 
-<h3 class="mb-4 mt-4">Undergraduate Researchers</h3>
+<h3 class="mb-4 mt-4">B.Tech Students</h3>
 <div class="row">
   {% for member in site.data.team.btech %}
   <div class="col-6 col-md-3 mb-4">
