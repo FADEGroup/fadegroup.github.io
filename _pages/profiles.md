@@ -24,12 +24,7 @@ nav_order: 2
     border-radius: 4px 4px 0 0; 
   }
 
-  /* Mobile Tweaks */
-  @media (max-width: 576px) {
-    .team-card-img {
-      height: 150px; /* Smaller student photos on mobile */
-    }
-  }
+
 
   /* Icons & Hover Effects */
   .linkedin-icon {

@@ -61,17 +61,17 @@ btech:
   # Row 1
   - name: Souvik Maji
     photo: assets/img/avatar.jpg
-    linkedin: https://linkedin.com/in/username
+    linkedin: https://in.linkedin.com/in/souvik-maji-a12543251
   - name: Jyotin Goel
     photo: assets/img/avatar.jpg
-    linkedin: https://linkedin.com/in/username
+    linkedin: https://in.linkedin.com/in/jyotin-goel-16924b263
   - name: Arnava Srivastava
     photo: assets/img/avatar.jpg
-    linkedin: https://linkedin.com/in/username
+    linkedin: https://in.linkedin.com/in/arnava-srivastava-9bb833256
   # Row 2
   - name: Rohan Regar
     photo: assets/img/avatar.jpg
-    linkedin: https://linkedin.com/in/username
+    linkedin: https://in.linkedin.com/in/rohan-regar-0a0929256
   # - name: B.Tech Student 5
   #   photo: assets/img/ug5.jpg
   #   linkedin: https://linkedin.com/in/username
