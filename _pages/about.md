@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>223, CSE Department</p>
-    <p>IIT Jodhpur</p>
-    <p>Jodhpur, Rajasthan 342030</p>
+    <p>223, CSE Department,</p>
+    <p>Indian Institute of Technology,</p>
+    <p>Jodhpur, Rajasthan, 342030</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an Assistant Professor in the [Department of Computer Science and Engineering](https://iitj.ac.in/computer-science-engineering/), Indian Institute of Technology Jodhpur. I received my PhD from the [Department of Computer Science and Engineering at the Indian Institute of Technology Kanpur](https://cse.iitk.ac.in/) supervised by [Dr. Vinay P. Namboodiri](https://vinaypn.github.io/) and [Dr. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/). My Research areas include Bias Mitigation, Generative Models, Medical Image Processing, Few-Shot Learning, Zero-Shot Learning, Incremental Learning, Deep Learning, Computer Vision, Machine Learning.
 
-The **Fairness And Data Efficiency (FADE)** Group at the [Indian Institute of Technology Jodhpur](https://iitj.ac.in/), led by [Dr Pratik Mazumder](https://sites.google.com/view/pratikmazumder/), focuses on developing equitable AI systems and advancing deep learning techniques for data-constrained environments, with applications in bias mitigation and medical image processing.
+The **Fairness And Data Efficiency (FADE)** Research Group at the [Indian Institute of Technology Jodhpur](https://iitj.ac.in/), led by [Dr Pratik Mazumder](https://sites.google.com/view/pratikmazumder/), focuses on developing equitable AI systems and advancing deep learning techniques for data-constrained environments, with applications in bias mitigation and medical image processing.
 
 <!-- [[CV](https://drive.google.com/file/d/17-VDtItJV99RmM9dKdnKVnOD9wm7Nj72/view)] | [[Google Scholar](https://scholar.google.com/citations?user=WxLYb5QAAAAJ&hl=en)] -->
 
