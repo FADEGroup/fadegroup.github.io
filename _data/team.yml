@@ -1,0 +1,93 @@
+# -----------------------------------------------------------------------------
+# PRINCIPAL INVESTIGATOR
+# -----------------------------------------------------------------------------
+pi:
+  - name: Dr. Your Name
+    role: Principal Investigator
+    photo: assets/img/prof.jpg
+    url: https://sites.google.com/view/pratikmazumder
+    bio: Assistant Professor at IIT. Research interests include Bias Mitigation, Generative Models, Medical Image Processing, Few-Shot Learning, Zero-Shot Learning, Incremental Learning, Deep Learning, Computer Vision, Machine Learning.
+
+# -----------------------------------------------------------------------------
+# CORE RESEARCH TEAM (PhD Scholars)
+# -----------------------------------------------------------------------------
+phd:
+  - name: Shubham Bagwari 
+    role: Doctoral Candidate
+    photo: assets/img/shubham.jpg
+    linkedin: https://www.linkedin.com/in/shubhambagwari/
+  - name: Divyaansh Mertia
+    role: Doctoral Candidate
+    photo: assets/img/divyaansh.jpg
+    linkedin: https://www.linkedin.com/in/divyaansh-mertia/
+
+# -----------------------------------------------------------------------------
+# GRADUATE STUDENTS (M.Tech)
+# -----------------------------------------------------------------------------
+mtech:
+  # Row 1
+  - name: Denzel Lenshanglen Lupheng
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
+  - name: Gourav Sen
+    photo: assets/img/avatar.jpg
+    linkedin: https://linkedin.com/in/username
+  - name: Ratnesh Dubey
+    photo: assets/img/avatar.jpg
+    linkedin: https://linkedin.com/in/username
+  - name: Shivani Tiwari
+    photo: assets/img/avatar.jpg
+    linkedin: https://linkedin.com/in/username
+  # Row 2
+  - name: Kartik Iyer
+    photo: assets/img/kartik.jpg
+    linkedin: https://linkedin.com/in/username
+  - name: Ravi 
+    photo: assets/img/ravi.jpg
+    linkedin: https://linkedin.com/in/username
+  - name: Jahanvi Gajera
+    photo: assets/img/avatar.jpg
+    linkedin: https://linkedin.com/in/username
+  - name: Aditya
+    photo: assets/img/aditya.jpg
+    linkedin: https://linkedin.com/in/username
+
+# -----------------------------------------------------------------------------
+# PROJECT STAFF (RA)
+# -----------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------
+# UNDERGRADUATE RESEARCHERS (B.Tech)
+# -----------------------------------------------------------------------------
+# btech:
+#   # Row 1
+#   - name: B.Tech Student 1
+#     photo: assets/img/ug1.jpg
+#     linkedin: https://linkedin.com/in/username
+#   - name: B.Tech Student 2
+#     photo: assets/img/ug2.jpg
+#     linkedin: https://linkedin.com/in/username
+#   - name: B.Tech Student 3
+#     photo: assets/img/ug3.jpg
+#     linkedin: https://linkedin.com/in/username
+#   # Row 2
+#   - name: B.Tech Student 4
+#     photo: assets/img/ug4.jpg
+#     linkedin: https://linkedin.com/in/username
+#   - name: B.Tech Student 5
+#     photo: assets/img/ug5.jpg
+#     linkedin: https://linkedin.com/in/username
+#   - name: B.Tech Student 6
+#     photo: assets/img/ug6.jpg
+#     linkedin: https://linkedin.com/in/username
+#   # Row 3
+
+
+# -----------------------------------------------------------------------------
+# ALUMNI
+# -----------------------------------------------------------------------------
+# alumni:
+#   - name: Alumni Name
+#     role: Former PhD
+#     year: 2024
+#     now_at: PostDoc at MIT
