@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Assistant Professor
+subtitle: Assistant Professor, IIT Jodhpur
 
 profile:
   align: right
