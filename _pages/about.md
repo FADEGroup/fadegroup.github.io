@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Assistant Professor, IIT Jodhpur
+subtitle: IIT Jodhpur
 
 profile:
   align: right
@@ -40,4 +40,4 @@ The **Fairness And Data Efficiency (FADE)** Research Group at the [Indian Instit
 
 <!-- [[CV](https://drive.google.com/file/d/17-VDtItJV99RmM9dKdnKVnOD9wm7Nj72/view)] | [[Google Scholar](https://scholar.google.com/citations?user=WxLYb5QAAAAJ&hl=en)] -->
 
-<!-- **Note:** I am looking for motivated PhD, B.Tech., and M.Tech. students with at least some experience in Deep Learning.  -->
+**Note:** We are looking for motivated PhD, B.Tech., and M.Tech. students with at least some experience in Deep Learning. 
