@@ -21,7 +21,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
 
 </div>
-
+ 
 ## User community
 
 The vibrant community of **al-folio** users is growing!
