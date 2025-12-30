@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-group",
           title: "Group",
-          description: "members of the lab or group",
+          description: "Members of the FADE Research Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
