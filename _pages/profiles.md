@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Members
+permalink: /members/
 description: Meet our research group.
 nav: true
 nav_order: 2
