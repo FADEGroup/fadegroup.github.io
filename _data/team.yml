@@ -4,7 +4,7 @@
 pi:
   - name: Dr. Your Name
     role: Principal Investigator
-    photo: assets/img/prof.jpg
+    photo: assets/img/prof_pic.jpg
     url: https://sites.google.com/view/pratikmazumder
     bio: Assistant Professor at IIT. Research interests include Bias Mitigation, Generative Models, Medical Image Processing, Few-Shot Learning, Zero-Shot Learning, Incremental Learning, Deep Learning, Computer Vision, Machine Learning.
 
@@ -13,11 +13,9 @@ pi:
 # -----------------------------------------------------------------------------
 phd:
   - name: Shubham Bagwari 
-    role: Doctoral Candidate
     photo: assets/img/shubham.jpg
     linkedin: https://www.linkedin.com/in/shubhambagwari/
   - name: Divyaansh Mertia
-    role: Doctoral Candidate
     photo: assets/img/divyaansh.jpg
     linkedin: https://www.linkedin.com/in/divyaansh-mertia/
 
