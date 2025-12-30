@@ -424,7 +424,7 @@ You will then need to configure what image to display in your site's social medi
 
 It generates an Atom (RSS-like) feed of your posts, useful for Atom and RSS readers. The feed is reachable simply by typing after your homepage `/feed.xml`. E.g. assuming your website mountpoint is the main folder, you can type `yourusername.github.io/feed.xml`
 
----
+---  
 
 #### Related posts
 
