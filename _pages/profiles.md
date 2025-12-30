@@ -8,21 +8,32 @@ nav_order: 2
 ---
 
 <style>
-  /* Forces all card images to be exactly 250px tall */
+  /* 1. Fix Image Aspect Ratio */
   .team-card-img {
     height: 250px;
-    object-fit: cover;
-    width: 100%;
+    width: 100%; /* Ensures image fills the card width */
+    object-fit: cover; /* Prevents stretching */
   }
   
-  /* Forces all chip images (BTech) to be square 50x50 */
+  /* 2. Fix PI Image for Mobile */
+  /* On mobile, we limit the PI image height so it doesn't take the whole screen */
+  .pi-img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+  }
+  @media (max-width: 576px) {
+    .pi-img {
+      height: 250px; /* Slightly smaller on phones */
+    }
+  }
+
   .chip-img {
     width: 50px;
     height: 50px;
     object-fit: cover;
   }
   
-  /* Standard LinkedIn Blue */
   .linkedin-icon {
     color: #0077b5;
     text-decoration: none;
@@ -32,7 +43,6 @@ nav_order: 2
     text-decoration: none;
   }
 
-  /* Card Hover Animation */
   .card:hover {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
     transform: translateY(-2px);
@@ -44,7 +54,7 @@ nav_order: 2
   {% for member in site.data.team.pi %}
   <div class="col-sm-4">
     <div class="card border-0 z-depth-1">
-      <img class="card-img-top" src="{{ member.photo | relative_url }}" alt="{{ member.name }}" style="object-fit: cover; height: 300px;">
+      <img class="card-img-top pi-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
     </div>
   </div>
   <div class="col-sm-8 mt-3 mt-sm-0">
@@ -66,15 +76,14 @@ nav_order: 2
 <h3 class="mb-4 mt-4">PhD Students</h3>
 <div class="row">
   {% for member in site.data.team.phd %}
-  <div class="col-12 col-sm-6 col-md-3 mb-4">
+  <div class="col-6 col-md-3 mb-4">
     <div class="card h-100 z-depth-1 border-0">
       <img class="card-img-top team-card-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
-      <div class="card-body text-center">
-        <h5 class="card-title mb-1">{{ member.name }}</h5>
+      <div class="card-body text-center p-2"> <h5 class="card-title mb-1" style="font-size: 1.1rem;">{{ member.name }}</h5>
         <p class="card-text text-muted small mb-2">{{ member.role }}</p>
         
         {% if member.linkedin %}
-        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon" title="Connect on LinkedIn">
+        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon">
           <i class="fab fa-linkedin fa-2x"></i>
         </a>
         {% endif %}
@@ -87,15 +96,15 @@ nav_order: 2
 <h3 class="mb-4 mt-4">M.Tech Students</h3>
 <div class="row">
   {% for member in site.data.team.mtech %}
-  <div class="col-12 col-sm-6 col-md-3 mb-4">
+  <div class="col-6 col-md-3 mb-4">
     <div class="card h-100 z-depth-1 border-0">
       <img class="card-img-top team-card-img" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
-      <div class="card-body text-center">
-        <h5 class="card-title mb-1">{{ member.name }}</h5>
+      <div class="card-body text-center p-2">
+        <h5 class="card-title mb-1" style="font-size: 1.1rem;">{{ member.name }}</h5>
         <p class="card-text text-muted small mb-2">{{ member.role }}</p>
         
         {% if member.linkedin %}
-        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon" title="Connect on LinkedIn">
+        <a href="{{ member.linkedin }}" target="_blank" class="linkedin-icon">
           <i class="fab fa-linkedin fa-2x"></i>
         </a>
         {% endif %}
