@@ -277,7 +277,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 
 ## Installing and Deploying
 
-For installation and deployment details please refer to [INSTALL.md](INSTALL.md).
+For installation and deployment details, please refer to [INSTALL.md](INSTALL.md).
 
 ## Customizing
 
