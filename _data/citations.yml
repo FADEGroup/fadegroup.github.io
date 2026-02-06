@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-06'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -50,7 +50,7 @@ papers:
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
-    citations: 171
+    citations: 174
     title: Few-Shot Lifelong Learning
     year: '2021'
   WxLYb5QAAAAJ:WF5omc3nYNoC:
@@ -86,7 +86,7 @@ papers:
     title: 'CVOCSemRPL: Class-Variance Optimized Clustering, Semantic Information Injection and Restricted Pseudo Labeling based Improved Semi-Supervised Few-Shot Learning'
     year: '2025'
   WxLYb5QAAAAJ:d1gkVwhDpl0C:
-    citations: 62
+    citations: 63
     title: 'AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings'
     year: '2021'
   WxLYb5QAAAAJ:eQOLeE2rZwMC:
