@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-11'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 6
     title: Protected attribute guided representation learning for bias mitigation in limited data
     year: '2022'
   WxLYb5QAAAAJ:2osOgNQ5qMEC:
@@ -42,7 +42,7 @@ papers:
     title: DILF-EN framework for Class-Incremental Learning
     year: '2021'
   WxLYb5QAAAAJ:Tyk-4Ss8FVUC:
-    citations: 30
+    citations: 29
     title: 'RNNP: A Robust Few-Shot Learning Approach'
     year: '2021'
   WxLYb5QAAAAJ:UeHWp8X0CEIC:
@@ -66,7 +66,7 @@ papers:
     title: Hybrid sample synthesis-based debiasing of classifier in limited data setting
     year: '2024'
   WxLYb5QAAAAJ:YsMSGLbcyi4C:
-    citations: 75
+    citations: 76
     title: Rectification-based Knowledge Retention for Continual Learning
     year: '2021'
   WxLYb5QAAAAJ:Zph67rFs4hoC:
@@ -86,7 +86,7 @@ papers:
     title: 'CVOCSemRPL: Class-Variance Optimized Clustering, Semantic Information Injection and Restricted Pseudo Labeling based Improved Semi-Supervised Few-Shot Learning'
     year: '2025'
   WxLYb5QAAAAJ:d1gkVwhDpl0C:
-    citations: 63
+    citations: 62
     title: 'AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings'
     year: '2021'
   WxLYb5QAAAAJ:eQOLeE2rZwMC:
