@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-25'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
-    citations: 6
+    citations: 7
     title: Protected attribute guided representation learning for bias mitigation in limited data
     year: '2022'
   WxLYb5QAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: Improving Few-Shot Learning using Composite Rotation based Auxiliary Task
     year: '2021'
   WxLYb5QAAAAJ:3fE2CSJIrl8C:
@@ -18,9 +18,13 @@ papers:
     title: 'BLADE: Bias-Linked Adaptive DEbiasing'
     year: '2025'
   WxLYb5QAAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 9
     title: Few-shot image classification with composite rotation based self-supervised auxiliary task
     year: '2022'
+  WxLYb5QAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning'
+    year: '2026'
   WxLYb5QAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: 'Supplementary Material: Calibrating CNNs for Lifelong Learning'
@@ -30,7 +34,7 @@ papers:
     title: Leveraging joint incremental learning objective with data ensemble for class incremental learning
     year: '2023'
   WxLYb5QAAAAJ:LkGwnXOMwfcC:
-    citations: 22
+    citations: 21
     title: Dual class representation learning for few-shot image classification
     year: '2022'
   WxLYb5QAAAAJ:MXK_kJrjxJIC:
@@ -42,31 +46,35 @@ papers:
     title: DILF-EN framework for Class-Incremental Learning
     year: '2021'
   WxLYb5QAAAAJ:Tyk-4Ss8FVUC:
-    citations: 29
+    citations: 31
     title: 'RNNP: A Robust Few-Shot Learning Approach'
     year: '2021'
   WxLYb5QAAAAJ:UeHWp8X0CEIC:
-    citations: 107
+    citations: 106
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
-    citations: 174
+    citations: 178
     title: Few-Shot Lifelong Learning
     year: '2021'
   WxLYb5QAAAAJ:WF5omc3nYNoC:
     citations: 3
     title: Fair Visual Recognition in Limited Data Regime using Self-Supervision and Self-Distillation
     year: '2022'
+  WxLYb5QAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot Learning
+    year: '2025'
   WxLYb5QAAAAJ:Y0pCki6q_DkC:
     citations: 5
     title: Calibrating feature maps for deep CNNs
     year: '2021'
   WxLYb5QAAAAJ:YOwf2qJgpHMC:
-    citations: 3
+    citations: 4
     title: Hybrid sample synthesis-based debiasing of classifier in limited data setting
     year: '2024'
   WxLYb5QAAAAJ:YsMSGLbcyi4C:
-    citations: 76
+    citations: 75
     title: Rectification-based Knowledge Retention for Continual Learning
     year: '2021'
   WxLYb5QAAAAJ:Zph67rFs4hoC:
@@ -74,7 +82,7 @@ papers:
     title: Mitigate forgetting in few-shot class-incremental learning using different image views
     year: '2023'
   WxLYb5QAAAAJ:_FxGoFyzp5QC:
-    citations: 13
+    citations: 12
     title: Context Extraction Module for Deep Convolutional Neural Networks
     year: '2021'
   WxLYb5QAAAAJ:_kc_bZDykSQC:
@@ -86,7 +94,7 @@ papers:
     title: 'CVOCSemRPL: Class-Variance Optimized Clustering, Semantic Information Injection and Restricted Pseudo Labeling based Improved Semi-Supervised Few-Shot Learning'
     year: '2025'
   WxLYb5QAAAAJ:d1gkVwhDpl0C:
-    citations: 62
+    citations: 63
     title: 'AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings'
     year: '2021'
   WxLYb5QAAAAJ:eQOLeE2rZwMC:
@@ -101,6 +109,10 @@ papers:
     citations: 6
     title: Rectification-based knowledge retention for task incremental learning
     year: '2022'
+  WxLYb5QAAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: 'Debiased Incremental Learning (DIL): A Novel Framework for Mitigating Bias in Incremental Learning'
+    year: '2026'
   WxLYb5QAAAAJ:qjMakFHDy7sC:
     citations: 7
     title: GIFSL-grafting based improved few-shot learning
