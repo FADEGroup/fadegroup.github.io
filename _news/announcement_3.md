@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper Accepted at IEEE Guwahati Subsection Conference 2026: AuxDenseFeatAlign: Auxiliary Dense Feature Alignment for Medical Incremental Learning, Arnab Roy, Shubham Bagwari, Pratik Mazumder, IEEE Guwahati Subsection Conference 2026
+Paper Accepted at IEEE Guwahati Subsection Conference 2026: Auxiliary Dense Feature Alignment for Medical Incremental Learning (AuxDenseFeatAlign), Arnab Roy, Shubham Bagwari, Pratik Mazumder, IEEE Guwahati Subsection Conference 2026
