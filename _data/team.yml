@@ -68,10 +68,16 @@ btech:
   - name: Arnava Srivastava
     photo: assets/img/avatar.jpg
     linkedin: https://in.linkedin.com/in/arnava-srivastava-9bb833256
-  # Row 2
   - name: Rohan Regar
     photo: assets/img/avatar.jpg
     linkedin: https://in.linkedin.com/in/rohan-regar-0a0929256
+  # Row 2
+  - name: Anuj Lalla
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
+  - name: Chiranjeevi C
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
   # - name: B.Tech Student 5
   #   photo: assets/img/ug5.jpg
   #   linkedin: https://linkedin.com/in/username
@@ -84,8 +90,26 @@ btech:
 # -----------------------------------------------------------------------------
 # ALUMNI
 # -----------------------------------------------------------------------------
-# alumni:
-#   - name: Alumni Name
-#     role: Former PhD
-#     year: 2024
-#     now_at: PostDoc at MIT
+alumni:
+  - name: Arnab Roy
+    role: M.Tech-AI
+    year: 2024
+    now_at: RadiusAI
+  - name: Prashant
+    role: M.Tech-CSE
+    year: 2024
+    now_at: TuringAI
+  - name: Anirban Maitra
+    role: M.Tech-AI
+    year: 2025
+    now_at: TuringAI
+  - name: Sanjeev Kumar
+    role: M.Tech-CSE
+    year: 2025
+    now_at: Assit. Professor
+  
+
+  # - name: Alumni Name
+  #   role: Former PhD
+  #   year: 2024
+  #   now_at: PostDoc at MIT
