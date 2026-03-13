@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-13'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
     citations: 7
     title: Protected attribute guided representation learning for bias mitigation in limited data
     year: '2022'
   WxLYb5QAAAAJ:2osOgNQ5qMEC:
-    citations: 20
+    citations: 21
     title: Improving Few-Shot Learning using Composite Rotation based Auxiliary Task
     year: '2021'
   WxLYb5QAAAAJ:3fE2CSJIrl8C:
@@ -54,7 +54,7 @@ papers:
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
-    citations: 180
+    citations: 181
     title: Few-Shot Lifelong Learning
     year: '2021'
   WxLYb5QAAAAJ:WF5omc3nYNoC:
@@ -106,7 +106,7 @@ papers:
     title: Restricted category removal from model representations using limited data
     year: '2021'
   WxLYb5QAAAAJ:kNdYIx-mwKoC:
-    citations: 7
+    citations: 8
     title: Rectification-based knowledge retention for task incremental learning
     year: '2022'
   WxLYb5QAAAAJ:mVmsd5A6BfQC:
