@@ -392,7 +392,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-paper-accepted-at-kbs-2026-debiased-incremental-learning-dil-a-novel-framework-for-mitigating-bias-in-incremental-learning-shubham-bagwari-pratik-mazumder-knowledge-based-systems-kbs-2026",
-          title: 'Paper Accepted at KBS 2026: Debiased Incremental Learning (DIL): A Novel Framework for...',
+          title: 'Paper Accepted at KBS 2026: Debiased Incremental Learning (DIL) A Novel Framework for...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-iclr-workshop-semantic-anchored-class-variance-optimized-clustering-for-robust-semi-supervised-few-shot-learning-souvik-maji-rhythm-baghel-pratik-mazumder-international-conference-on-learning-representations-2026-geometry-grounded-representation-learning-and-generative-modeling-workshop",
           title: 'Paper Accepted at ICLR Workshop:Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot Learning,...',
