@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-kbs-2026-debiased-incremental-learning-dil-a-novel-framework-for-mitigating-bias-in-incremental-learning-shubham-bagwari-pratik-mazumder-knowledge-based-systems-kbs-2026",
           title: 'Paper Accepted at KBS 2026: Debiased Incremental Learning (DIL): A Novel Framework for...',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-iclr-workshop-semantic-anchored-class-variance-optimized-clustering-for-robust-semi-supervised-few-shot-learning-souvik-maji-rhythm-baghel-pratik-mazumder-international-conference-on-learning-representations-2026-geometry-grounded-representation-learning-and-generative-modeling-workshop",
+          title: 'Paper Accepted at ICLR Workshop:Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot Learning,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
