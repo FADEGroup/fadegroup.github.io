@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-02-15 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Paper Accepted at KBS 2026: Debiased Incremental Learning (DIL): A Novel Framework for Mitigating Bias in Incremental Learning, Shubham Bagwari, Pratik Mazumder*, Knowledge-Based Systems (KBS), 2026.
