@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'Paper Accepted at KBS 2026: Debiased Incremental Learning (DIL) A Novel Framework for...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-iclr-workshop-semantic-anchored-class-variance-optimized-clustering-for-robust-semi-supervised-few-shot-learning-souvik-maji-rhythm-baghel-pratik-mazumder-international-conference-on-learning-representations-2026-geometry-grounded-representation-learning-and-generative-modeling-workshop",
-          title: 'Paper Accepted at ICLR Workshop:Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot Learning,...',
+          title: 'Paper Accepted at ICLR Workshop: Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-ieee-guwahati-subsection-conference-2026-auxdensefeatalign-auxiliary-dense-feature-alignment-for-medical-incremental-learning-arnab-roy-shubham-bagwari-pratik-mazumder-ieee-guwahati-subsection-conference-2026",
           title: 'Paper Accepted at IEEE Guwahati Subsection Conference 2026: AuxDenseFeatAlign: Auxiliary Dense Feature Alignment...',
