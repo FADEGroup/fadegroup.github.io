@@ -19,7 +19,7 @@ phd:
     photo: assets/img/divyaansh.jpg
     linkedin: https://www.linkedin.com/in/divyaansh-mertia/
   - name: Aniruddha Bohra
-    photo: assets/img/aniruddha.jpg
+    photo: assets/img/avatar.jpg
     linkedin: https://www.linkedin.com/in/aniruddha-bohra-05b0b61ab/
 
 # -----------------------------------------------------------------------------
@@ -31,7 +31,7 @@ mtech:
     photo: assets/img/avatar.jpg
     linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
   - name: Gourav Sen
-    photo: assets/gourav/avatar.jpg
+    photo: assets/img/gourav.jpg
     linkedin: https://in.linkedin.com/in/gourav-sen-a837b1210
   - name: Ratnesh Dubey
     photo: assets/img/avatar.jpg
@@ -47,7 +47,7 @@ mtech:
     photo: assets/img/ravi.jpeg
     linkedin: https://linkedin.com/in/username
   - name: Jahanvi Gajera
-    photo: assets/jahanvi/avatar.jpg
+    photo: assets/img/jahanvi.jpg
     linkedin: https://linkedin.com/in/username
   - name: Aditya Pratap Singh
     photo: assets/img/aditya.jpeg
