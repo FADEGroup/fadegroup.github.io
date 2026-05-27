@@ -19,7 +19,7 @@ phd:
     photo: assets/img/divyaansh.jpg
     linkedin: https://www.linkedin.com/in/divyaansh-mertia/
   - name: Aniruddha Bohra
-    photo: assets/img/avatar.jpg
+    photo: assets/img/anirudh.jpg
     linkedin: https://www.linkedin.com/in/aniruddha-bohra-05b0b61ab/
 
 # -----------------------------------------------------------------------------
@@ -113,39 +113,39 @@ alumni:
   course: "M.Tech"
   yearr: "2026"
   affiliation: ""
-  linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
+  linkedin: "https://www.linkedin.com/in/denzel-lupheng-935019270/"
 - name: Gourav Sen
   course: "M.Tech"
   yearr: "2026"
   affiliation: ""
-  linkedin: https://in.linkedin.com/in/gourav-sen-a837b1210
+  linkedin: "https://in.linkedin.com/in/gourav-sen-a837b1210"
 - name: Ratnesh Dubey
   course: "M.Tech"
   yearr: "2026"
   affiliation: "HCL Tech" 
-  linkedin: https://in.linkedin.com/in/ratnesh-dubey-4640a3144
+  linkedin: "https://in.linkedin.com/in/ratnesh-dubey-4640a3144"
 - name: Shivani Tiwari
   course: "M.Tech"
   yearr: "2026"
   affiliation: ""
-  linkedin: https://in.linkedin.com/in/shivani-tiwari-022603211
+  linkedin: "https://in.linkedin.com/in/shivani-tiwari-022603211"
 # - name: ""
 #   course: ""
 #   year: ""
 #   affiliation: ""
 #   linkedin: ""
 - name: Divyaansh Mertia
-  course: M.Tech-AI
+  course: M.Tech
   year: 2025
   affiliation: PhD@IIT Jodhpur
   linkedin: ""
 - name: Anirban Maitra
-  course: M.Tech-AI
+  course: M.Tech
   year: 2025
   affiliation: TuringAI
   linkedin: ""
 - name: Sanjeev Kumar
-  course: M.Tech-CSE
+  course: M.Tech
   year: 2025
   affiliation: Assit. Professor
   linkedin: ""
@@ -155,12 +155,12 @@ alumni:
   affiliation: MSc Computing (AI & ML) @Imperial College London
   linkedin: ""
 - name: Arnab Roy
-  course: M.Tech-AI
+  course: M.Tech
   year: 2024
   affiliation: RadiusAI
   linkedin: ""
 - name: Prashant
-  course: M.Tech-CSE
+  course: M.Tech
   year: 2024
   affiliation: TuringAI
   linkedin: ""

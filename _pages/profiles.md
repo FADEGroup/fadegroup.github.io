@@ -132,41 +132,54 @@ nav_order: 2
 
 <hr>
 
-<h3 class="mb-4 mt-4">Alumni</h3>
-<div class="table-responsive">
-  <table class="table table-hover border-0">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Course/Position</th>
-        <th scope="col">Year of Graduation</th>
-        <th scope="col">Next / Current Affiliation</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for alumni in site.data.team.alumni %}
-      <tr>
-        <!-- Column 1: Name + Link -->
-        <td>
-          {% if alumni.linkedin or alumni.url %}
-            <a href="{{ alumni.linkedin | default: alumni.url }}" target="_blank" style="font-weight: 500; text-decoration: none;">
-              {{ alumni.name }} <i class="fab fa-linkedin fa-sm" style="margin-left: 4px; color: #0077b5;"></i>
-            </a>
-          {% else %}
-            {{ alumni.name }}
-          {% endif %}
-        </td>
-        
-        <!-- Column 2: Course/Position -->
-        <td>{{ alumni.role | default: alumni.course }}</td>
-        
-        <!-- Column 3: Year -->
-        <td>{{ alumni.year }}</td>
-        
-        <!-- Column 4: Affiliation -->
-        <td>{{ alumni.affiliation }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+<hr>
+
+<div class="d-flex align-items-center mb-4 mt-4">
+  <h3 class="mb-0 mr-3">Alumni</h3>
+  <button 
+    class="btn btn-sm btn-outline-secondary alni-toggle-btn" 
+    type="button" 
+    data-toggle="collapse" 
+    data-target="#alumniCollapse" 
+    aria-expanded="false" 
+    aria-controls="alumniCollapse"
+  >
+    <i class="fas fa-chevron-down mr-1"></i> Show / Hide Lab Alumni
+  </button>
+</div>
+
+<div class="collapse" id="alumniCollapse">
+  <div class="table-responsive">
+    <table class="table table-hover border-0">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Course/Position</th>
+          <th scope="col">Graduation Year</th>
+          <th scope="col">Next / Current Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for alumni in site.data.team.alumni %}
+        <tr>
+          <td>
+            {% if alumni.linkedin or alumni.url %}
+              <a href="{{ alumni.linkedin | default: alumni.url }}" target="_blank" style="font-weight: 500; text-decoration: none;">
+                {{ alumni.name }} <i class="fab fa-linkedin fa-sm" style="margin-left: 4px; color: #0077b5;"></i>
+              </a>
+            {% else %}
+              {{ alumni.name }}
+            {% endif %}
+          </td>
+          
+          <td>{{ alumni.role | default: alumni.course }}</td>
+          
+          <td>{{ alumni.year }}</td>
+          
+          <td>{{ alumni.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </div>
