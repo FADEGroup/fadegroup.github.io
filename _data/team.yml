@@ -61,7 +61,17 @@ mtech:
 # UNDERGRADUATE RESEARCHERS (B.Tech)
 # -----------------------------------------------------------------------------
 btech:
-  # Row 1
+  # Row 1 (4 entries)
+  - name: Anuj Lalla
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
+  - name: Chiranjeevi C
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
+  - name: "Shrihari Madhusudan Dumbre
+    photo: assets/img/avatar.jpg
+    linkedin: 
+  # Row 2
   - name: Souvik Maji
     photo: assets/img/avatar.jpg
     linkedin: https://in.linkedin.com/in/souvik-maji-a12543251
@@ -74,13 +84,7 @@ btech:
   # - name: Rohan Regar
   #   photo: assets/img/avatar.jpg
   #   linkedin: https://in.linkedin.com/in/rohan-regar-0a0929256
-  # Row 2
-  # - name: Anuj Lalla
-  #   photo: assets/img/avatar.jpg
-  #   linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
-  - name: Chiranjeevi C
-    photo: assets/img/avatar.jpg
-    linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
+
   # - name: B.Tech Student 5
   #   photo: assets/img/ug5.jpg
   #   linkedin: https://linkedin.com/in/username
@@ -102,7 +106,7 @@ alumni:
 - name: "Jyotin Goel"
   course: "B.Tech"
   year: "2026"
-  affiliation: ""
+  affiliation: "Research Engineer @Domyn "
   linkedin: "https://in.linkedin.com/in/jyotin-goel-16924b263"
 - name: "Souvik Maji"
   course: "B.Tech"
@@ -111,22 +115,22 @@ alumni:
   linkedin: "https://in.linkedin.com/in/souvik-maji-a12543251"
 - name: Denzel Lenshanglen Lupheng
   course: "M.Tech"
-  yearr: "2026"
+  year: "2026"
   affiliation: ""
   linkedin: "https://www.linkedin.com/in/denzel-lupheng-935019270/"
 - name: Gourav Sen
   course: "M.Tech"
-  yearr: "2026"
+  year: "2026"
   affiliation: ""
   linkedin: "https://in.linkedin.com/in/gourav-sen-a837b1210"
 - name: Ratnesh Dubey
   course: "M.Tech"
-  yearr: "2026"
+  year: "2026"
   affiliation: "HCL Tech" 
   linkedin: "https://in.linkedin.com/in/ratnesh-dubey-4640a3144"
 - name: Shivani Tiwari
   course: "M.Tech"
-  yearr: "2026"
+  year: "2026"
   affiliation: ""
   linkedin: "https://in.linkedin.com/in/shivani-tiwari-022603211"
 # - name: ""

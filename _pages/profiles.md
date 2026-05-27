@@ -155,7 +155,7 @@ nav_order: 2
         <tr>
           <th scope="col">Name</th>
           <th scope="col">Course/Position</th>
-          <th scope="col">Graduation Year</th>
+          <th scope="col">Grad. Year</th>
           <th scope="col">Next / Current Affiliation</th>
         </tr>
       </thead>
