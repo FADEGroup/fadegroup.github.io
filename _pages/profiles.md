@@ -156,7 +156,7 @@ nav_order: 2
           <th scope="col">Name</th>
           <th scope="col">Course/Position</th>
           <th scope="col">Grad. Year</th>
-          <th scope="col">Next / Current Affiliation</th>
+          <th scope="col">First / Current Affiliation</th>
         </tr>
       </thead>
       <tbody>

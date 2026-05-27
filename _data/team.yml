@@ -101,7 +101,7 @@ alumni:
   - name: "Anuj Lalla"
     course: "B.Tech"
     year: "2026"
-    affiliation: ""
+    affiliation: "NPTEL"
     linkedin: "https://www.linkedin.com/in/anuj-lalla-2a977225a"
   - name: "Jyotin Goel"
     course: "B.Tech"
@@ -111,7 +111,7 @@ alumni:
   - name: "Souvik Maji"
     course: "B.Tech"
     year: "2026"
-    affiliation: ""
+    affiliation: "MLE @Mercedes"
     linkedin: "https://in.linkedin.com/in/souvik-maji-a12543251"
   - name: Denzel Lenshanglen Lupheng
     course: "M.Tech"
