@@ -69,7 +69,7 @@ btech:
     photo: assets/img/chiranjeevi.jpg
     linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
   - name: Shrihari Madhusudan Dumbre
-    photo: assets/img/avatar.jpg
+    photo: assets/img/shrihari.jpg
     linkedin:  https://www.linkedin.com/in/
   # Row 2
   # - name: Souvik Maji
@@ -131,7 +131,7 @@ alumni:
   - name: Shivani Tiwari
     course: "M.Tech"
     year: "2026"
-    affiliation: ""
+    affiliation: "Tata Motors"
     linkedin: "https://in.linkedin.com/in/shivani-tiwari-022603211"
   # - name: ""
   #   course: ""
