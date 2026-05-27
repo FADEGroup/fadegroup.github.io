@@ -70,14 +70,14 @@ btech:
     linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
   - name: "Shrihari Madhusudan Dumbre
     photo: assets/img/avatar.jpg
-    linkedin: 
+    # linkedin: 
   # Row 2
-  - name: Souvik Maji
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/souvik-maji-a12543251
-  - name: Jyotin Goel
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/jyotin-goel-16924b263
+  # - name: Souvik Maji
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/souvik-maji-a12543251
+  # - name: Jyotin Goel
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/jyotin-goel-16924b263
   # - name: Arnava Srivastava
   #   photo: assets/img/avatar.jpg
   #   linkedin: https://in.linkedin.com/in/arnava-srivastava-9bb833256
