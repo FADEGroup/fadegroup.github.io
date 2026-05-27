@@ -130,3 +130,36 @@ nav_order: 2
   {% endfor %}
 </div>
 
+<hr>
+
+<h3 class="mb-4 mt-4">Alumni</h3>
+<div class="table-responsive">
+  <table class="table table-hover border-0">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">Name</th>
+        <th> scope="col">Course/Position</th>
+        <th scope="col">Year of Graduation</th>
+        <th scope="col">Next / Current Affiliation</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for alumni in site.data.team.alumni %}
+      <tr>
+        <td>
+          {% if alumni.linkedin or alumni.url %}
+            <a href="{{ alumni.linkedin | default: alumni.url }}" target="_blank" style="font-weight: 500;">
+              {{ alumni.name }} <i class="fas fa-external-link-alt fa-xs"></i>
+            </a>
+          {% else %}
+            {{ alumni.name }}
+          {% endif %}
+        </td>
+        <td>{{ alumni.year }}</td>
+        <td>{{ alumni.affiliation }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
