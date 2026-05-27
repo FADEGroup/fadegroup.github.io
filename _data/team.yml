@@ -121,7 +121,7 @@ alumni:
   - name: Gourav Sen
     course: "M.Tech"
     year: "2026"
-    affiliation: ""
+    affiliation: "Sirius AI"
     linkedin: "https://in.linkedin.com/in/gourav-sen-a837b1210"
   - name: Ratnesh Dubey
     course: "M.Tech"
@@ -141,33 +141,33 @@ alumni:
   - name: Divyaansh Mertia
     course: M.Tech
     year: 2025
-    affiliation: PhD@IIT Jodhpur
-    linkedin: ""
+    affiliation: Ph.D. @IIT Jodhpur
+    linkedin: "https://www.linkedin.com/in/divyaansh-mertia/"
   - name: Anirban Maitra
     course: M.Tech
     year: 2025
-    affiliation: TuringAI
-    linkedin: ""
+    affiliation: Data Scientist @TuringAI
+    linkedin: "https://www.linkedin.com/in/maitraanirban/"
   - name: Sanjeev Kumar
     course: M.Tech
     year: 2025
-    affiliation: Assit. Professor
-    linkedin: ""
+    affiliation: Assit. Professor @GLA Mathura
+    linkedin: "https://www.linkedin.com/in/sanjeev-kumar-235508180/"
   - name: Piyush Arora
     course: B.Tech
     year: 2024
     affiliation: MSc Computing (AI & ML) @Imperial College London
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/piyush-arora-69ba4512a/"
   - name: Arnab Roy
     course: M.Tech
     year: 2024
-    affiliation: RadiusAI
-    linkedin: ""
+    affiliation: DLE @RadiusAI
+    linkedin: "https://www.linkedin.com/in/arnab-roy-06209a244/"
   - name: Prashant
     course: M.Tech
     year: 2024
     affiliation: TuringAI
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/ezpg/"
     # - name: "Shubham Bagwari"
     #   course: "M.Tech"
     #   year: "2022"
