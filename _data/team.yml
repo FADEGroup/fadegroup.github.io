@@ -62,15 +62,15 @@ mtech:
 # -----------------------------------------------------------------------------
 btech:
   # Row 1 (4 entries)
-- name: Anuj Lalla
-  photo: assets/img/avatar.jpg
-  linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
-- name: Chiranjeevi C
-  photo: assets/img/avatar.jpg
-  linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
-- name: "Shrihari Madhusudan Dumbre
-  photo: assets/img/avatar.jpg
-  linkedin:  https://www.linkedin.com/in/
+  - name: Anuj Lalla
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
+  - name: Chiranjeevi C
+    photo: assets/img/avatar.jpg
+    linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
+  - name: "Shrihari Madhusudan Dumbre
+    photo: assets/img/avatar.jpg
+    linkedin:  https://www.linkedin.com/in/
   # Row 2
   # - name: Souvik Maji
   #   photo: assets/img/avatar.jpg
@@ -98,85 +98,85 @@ btech:
 # ALUMNI
 # -----------------------------------------------------------------------------
 alumni:
-- name: "Anuj Lalla"
-  course: "B.Tech"
-  year: "2026"
-  affiliation: ""
-  linkedin: "https://www.linkedin.com/in/anuj-lalla-2a977225a"
-- name: "Jyotin Goel"
-  course: "B.Tech"
-  year: "2026"
-  affiliation: "Research Engineer @Domyn "
-  linkedin: "https://in.linkedin.com/in/jyotin-goel-16924b263"
-- name: "Souvik Maji"
-  course: "B.Tech"
-  year: "2026"
-  affiliation: ""
-  linkedin: "https://in.linkedin.com/in/souvik-maji-a12543251"
-- name: Denzel Lenshanglen Lupheng
-  course: "M.Tech"
-  year: "2026"
-  affiliation: ""
-  linkedin: "https://www.linkedin.com/in/denzel-lupheng-935019270/"
-- name: Gourav Sen
-  course: "M.Tech"
-  year: "2026"
-  affiliation: ""
-  linkedin: "https://in.linkedin.com/in/gourav-sen-a837b1210"
-- name: Ratnesh Dubey
-  course: "M.Tech"
-  year: "2026"
-  affiliation: "HCL Tech" 
-  linkedin: "https://in.linkedin.com/in/ratnesh-dubey-4640a3144"
-- name: Shivani Tiwari
-  course: "M.Tech"
-  year: "2026"
-  affiliation: ""
-  linkedin: "https://in.linkedin.com/in/shivani-tiwari-022603211"
-# - name: ""
-#   course: ""
-#   year: ""
-#   affiliation: ""
-#   linkedin: ""
-- name: Divyaansh Mertia
-  course: M.Tech
-  year: 2025
-  affiliation: PhD@IIT Jodhpur
-  linkedin: ""
-- name: Anirban Maitra
-  course: M.Tech
-  year: 2025
-  affiliation: TuringAI
-  linkedin: ""
-- name: Sanjeev Kumar
-  course: M.Tech
-  year: 2025
-  affiliation: Assit. Professor
-  linkedin: ""
-- name: Piyush Arora
-  course: B.Tech
-  year: 2024
-  affiliation: MSc Computing (AI & ML) @Imperial College London
-  linkedin: ""
-- name: Arnab Roy
-  course: M.Tech
-  year: 2024
-  affiliation: RadiusAI
-  linkedin: ""
-- name: Prashant
-  course: M.Tech
-  year: 2024
-  affiliation: TuringAI
-  linkedin: ""
-  # - name: "Shubham Bagwari"
-  #   course: "M.Tech"
-  #   year: "2022"
-  #   affiliation: "Amazon, Bangalore"
-  #   linkedin: "https://linkedin.com/in/username"
-  
-# - name: ""
+  - name: "Anuj Lalla"
+    course: "B.Tech"
+    year: "2026"
+    affiliation: ""
+    linkedin: "https://www.linkedin.com/in/anuj-lalla-2a977225a"
+  - name: "Jyotin Goel"
+    course: "B.Tech"
+    year: "2026"
+    affiliation: "Research Engineer @Domyn "
+    linkedin: "https://in.linkedin.com/in/jyotin-goel-16924b263"
+  - name: "Souvik Maji"
+    course: "B.Tech"
+    year: "2026"
+    affiliation: ""
+    linkedin: "https://in.linkedin.com/in/souvik-maji-a12543251"
+  - name: Denzel Lenshanglen Lupheng
+    course: "M.Tech"
+    year: "2026"
+    affiliation: ""
+    linkedin: "https://www.linkedin.com/in/denzel-lupheng-935019270/"
+  - name: Gourav Sen
+    course: "M.Tech"
+    year: "2026"
+    affiliation: ""
+    linkedin: "https://in.linkedin.com/in/gourav-sen-a837b1210"
+  - name: Ratnesh Dubey
+    course: "M.Tech"
+    year: "2026"
+    affiliation: "HCL Tech" 
+    linkedin: "https://in.linkedin.com/in/ratnesh-dubey-4640a3144"
+  - name: Shivani Tiwari
+    course: "M.Tech"
+    year: "2026"
+    affiliation: ""
+    linkedin: "https://in.linkedin.com/in/shivani-tiwari-022603211"
+  # - name: ""
   #   course: ""
   #   year: ""
   #   affiliation: ""
   #   linkedin: ""
+  - name: Divyaansh Mertia
+    course: M.Tech
+    year: 2025
+    affiliation: PhD@IIT Jodhpur
+    linkedin: ""
+  - name: Anirban Maitra
+    course: M.Tech
+    year: 2025
+    affiliation: TuringAI
+    linkedin: ""
+  - name: Sanjeev Kumar
+    course: M.Tech
+    year: 2025
+    affiliation: Assit. Professor
+    linkedin: ""
+  - name: Piyush Arora
+    course: B.Tech
+    year: 2024
+    affiliation: MSc Computing (AI & ML) @Imperial College London
+    linkedin: ""
+  - name: Arnab Roy
+    course: M.Tech
+    year: 2024
+    affiliation: RadiusAI
+    linkedin: ""
+  - name: Prashant
+    course: M.Tech
+    year: 2024
+    affiliation: TuringAI
+    linkedin: ""
+    # - name: "Shubham Bagwari"
+    #   course: "M.Tech"
+    #   year: "2022"
+    #   affiliation: "Amazon, Bangalore"
+    #   linkedin: "https://linkedin.com/in/username"
+    
+  # - name: ""
+    #   course: ""
+    #   year: ""
+    #   affiliation: ""
+    #   linkedin: ""
   
