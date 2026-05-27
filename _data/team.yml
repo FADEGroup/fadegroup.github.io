@@ -27,19 +27,6 @@ phd:
 # -----------------------------------------------------------------------------
 mtech:
   # Row 1
-  - name: Denzel Lenshanglen Lupheng
-    photo: assets/img/avatar.jpg
-    linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
-  - name: Gourav Sen
-    photo: assets/img/gourav.jpg
-    linkedin: https://in.linkedin.com/in/gourav-sen-a837b1210
-  - name: Ratnesh Dubey
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/ratnesh-dubey-4640a3144
-  - name: Shivani Tiwari
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/shivani-tiwari-022603211
-  # Row 2
   - name: Kartik Iyer
     photo: assets/img/kartik.jpeg
     linkedin: https://in.linkedin.com/in/kartik-iyer-741600203
@@ -52,6 +39,19 @@ mtech:
   - name: Aditya Pratap Singh
     photo: assets/img/aditya.jpeg
     linkedin: https://in.linkedin.com/in/aditya-pratap-singh-a82a62279
+  # Row 2
+  # - name: Denzel Lenshanglen Lupheng
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
+  # - name: Gourav Sen
+  #   photo: assets/img/gourav.jpg
+  #   linkedin: https://in.linkedin.com/in/gourav-sen-a837b1210
+  # - name: Ratnesh Dubey
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/ratnesh-dubey-4640a3144
+  # - name: Shivani Tiwari
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/shivani-tiwari-022603211
 
 # -----------------------------------------------------------------------------
 # PROJECT STAFF (RA)
@@ -68,16 +68,16 @@ btech:
   - name: Jyotin Goel
     photo: assets/img/avatar.jpg
     linkedin: https://in.linkedin.com/in/jyotin-goel-16924b263
-  - name: Arnava Srivastava
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/arnava-srivastava-9bb833256
-  - name: Rohan Regar
-    photo: assets/img/avatar.jpg
-    linkedin: https://in.linkedin.com/in/rohan-regar-0a0929256
+  # - name: Arnava Srivastava
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/arnava-srivastava-9bb833256
+  # - name: Rohan Regar
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://in.linkedin.com/in/rohan-regar-0a0929256
   # Row 2
-  - name: Anuj Lalla
-    photo: assets/img/avatar.jpg
-    linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
+  # - name: Anuj Lalla
+  #   photo: assets/img/avatar.jpg
+  #   linkedin: https://www.linkedin.com/in/anuj-lalla-2a977225a
   - name: Chiranjeevi C
     photo: assets/img/avatar.jpg
     linkedin: https://www.linkedin.com/in/chiranjeevi-c-117982283/
@@ -94,29 +94,85 @@ btech:
 # ALUMNI
 # -----------------------------------------------------------------------------
 alumni:
-  - name: Arnab Roy
-    role: M.Tech-AI
-    year: 2024
-    now_at: RadiusAI
-  - name: Prashant
-    role: M.Tech-CSE
-    year: 2024
-    now_at: TuringAI
-  - name: Piyush Arora
-    role: B.Tech
-    year: 2024
-    now_at: MSc Computing (AI & ML) @Imperial College London
-  - name: Anirban Maitra
-    role: M.Tech-AI
-    year: 2025
-    now_at: TuringAI
-  - name: Sanjeev Kumar
-    role: M.Tech-CSE
-    year: 2025
-    now_at: Assit. Professor
+- name: "Anuj Lalla"
+  course: "B.Tech"
+  year: "2026"
+  affiliation: ""
+  linkedin: "https://www.linkedin.com/in/anuj-lalla-2a977225a"
+- name: "Jyotin Goel"
+  course: "B.Tech"
+  year: "2026"
+  affiliation: ""
+  linkedin: "https://in.linkedin.com/in/jyotin-goel-16924b263"
+- name: "Souvik Maji"
+  course: "B.Tech"
+  year: "2026"
+  affiliation: ""
+  linkedin: "https://in.linkedin.com/in/souvik-maji-a12543251"
+- name: Denzel Lenshanglen Lupheng
+  course: "M.Tech"
+  yearr: "2026"
+  affiliation: ""
+  linkedin: https://www.linkedin.com/in/denzel-lupheng-935019270/
+- name: Gourav Sen
+  course: "M.Tech"
+  yearr: "2026"
+  affiliation: ""
+  linkedin: https://in.linkedin.com/in/gourav-sen-a837b1210
+- name: Ratnesh Dubey
+  course: "M.Tech"
+  yearr: "2026"
+  affiliation: "HCL Tech" 
+  linkedin: https://in.linkedin.com/in/ratnesh-dubey-4640a3144
+- name: Shivani Tiwari
+  course: "M.Tech"
+  yearr: "2026"
+  affiliation: ""
+  linkedin: https://in.linkedin.com/in/shivani-tiwari-022603211
+# - name: ""
+#   course: ""
+#   year: ""
+#   affiliation: ""
+#   linkedin: ""
+- name: Divyaansh Mertia
+  course: M.Tech-AI
+  year: 2025
+  affiliation: PhD@IIT Jodhpur
+  linkedin: ""
+- name: Anirban Maitra
+  course: M.Tech-AI
+  year: 2025
+  affiliation: TuringAI
+  linkedin: ""
+- name: Sanjeev Kumar
+  course: M.Tech-CSE
+  year: 2025
+  affiliation: Assit. Professor
+  linkedin: ""
+- name: Piyush Arora
+  course: B.Tech
+  year: 2024
+  affiliation: MSc Computing (AI & ML) @Imperial College London
+  linkedin: ""
+- name: Arnab Roy
+  course: M.Tech-AI
+  year: 2024
+  affiliation: RadiusAI
+  linkedin: ""
+- name: Prashant
+  course: M.Tech-CSE
+  year: 2024
+  affiliation: TuringAI
+  linkedin: ""
+  # - name: "Shubham Bagwari"
+  #   course: "M.Tech"
+  #   year: "2022"
+  #   affiliation: "Amazon, Bangalore"
+  #   linkedin: "https://linkedin.com/in/username"
   
-
-  # - name: Alumni Name
-  #   role: Former PhD
-  #   year: 2024
-  #   now_at: PostDoc at MIT
+# - name: ""
+  #   course: ""
+  #   year: ""
+  #   affiliation: ""
+  #   linkedin: ""
+  
