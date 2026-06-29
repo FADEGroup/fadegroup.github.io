@@ -136,7 +136,7 @@ nav_order: 2
 
 <div class="d-flex align-items-center mb-4 mt-4">
   <h3 class="mb-0 mr-3">Alumni</h3>
-  <button 
+  <!-- <button 
     class="btn btn-sm btn-outline-secondary alni-toggle-btn" 
     type="button" 
     data-toggle="collapse" 
@@ -145,10 +145,10 @@ nav_order: 2
     aria-controls="alumniCollapse"
   >
     <i class="fas fa-chevron-down mr-1"></i> Show / Hide Lab Alumni
-  </button>
+  </button> -->
 </div>
 
-<div class="collapse" id="alumniCollapse">
+<!-- <div class="collapse" id="alumniCollapse"> -->
   <div class="table-responsive">
     <table class="table table-hover border-0">
       <thead class="thead-light">
@@ -182,4 +182,4 @@ nav_order: 2
       </tbody>
     </table>
   </div>
-</div>
+<!-- </div> -->
