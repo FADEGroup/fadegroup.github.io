@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'Paper Accepted at IEEE Guwahati Subsection Conference 2026: Auxiliary Dense Feature Alignment for...',
           description: "",
           section: "News",},{id: "news-four-papers-accepted-at-the-11th-national-conference-on-computer-vision-pattern-recognition-image-processing-and-graphics-ncvpripg-2026",
-          title: 'Four Papers accepted at The 11th National Conference on Computer Vision, Pattern Recognition,...',
+          title: 'Four Papers Accepted at The 11th National Conference on Computer Vision, Pattern Recognition,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
