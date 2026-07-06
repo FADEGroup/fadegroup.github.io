@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-06'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -50,11 +50,11 @@ papers:
     title: 'RNNP: A Robust Few-Shot Learning Approach'
     year: '2021'
   WxLYb5QAAAAJ:UeHWp8X0CEIC:
-    citations: 107
+    citations: 108
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
-    citations: 191
+    citations: 192
     title: Few-Shot Lifelong Learning
     year: '2021'
   WxLYb5QAAAAJ:WF5omc3nYNoC:
