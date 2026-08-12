@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-08-12'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 6
     title: Protected attribute guided representation learning for bias mitigation in limited data
     year: '2022'
   WxLYb5QAAAAJ:2osOgNQ5qMEC:
@@ -22,7 +22,7 @@ papers:
     title: Few-shot image classification with composite rotation based self-supervised auxiliary task
     year: '2022'
   WxLYb5QAAAAJ:9ZlFYXVOiuMC:
-    citations: 1
+    citations: 2
     title: 'Learning to stay safe: Adaptive regularization against safety degradation during fine-tuning'
     year: '2026'
   WxLYb5QAAAAJ:IjCSPb-OGe4C:
@@ -46,15 +46,15 @@ papers:
     title: DILF-EN framework for Class-Incremental Learning
     year: '2021'
   WxLYb5QAAAAJ:Tyk-4Ss8FVUC:
-    citations: 35
+    citations: 38
     title: 'RNNP: A Robust Few-Shot Learning Approach'
     year: '2021'
   WxLYb5QAAAAJ:UeHWp8X0CEIC:
-    citations: 108
+    citations: 103
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
-    citations: 192
+    citations: 197
     title: Few-Shot Lifelong Learning
     year: '2021'
   WxLYb5QAAAAJ:WF5omc3nYNoC:
@@ -70,11 +70,11 @@ papers:
     title: Calibrating feature maps for deep CNNs
     year: '2021'
   WxLYb5QAAAAJ:YOwf2qJgpHMC:
-    citations: 4
+    citations: 3
     title: Hybrid sample synthesis-based debiasing of classifier in limited data setting
     year: '2024'
   WxLYb5QAAAAJ:YsMSGLbcyi4C:
-    citations: 78
+    citations: 77
     title: Rectification-based Knowledge Retention for Continual Learning
     year: '2021'
   WxLYb5QAAAAJ:Zph67rFs4hoC:
@@ -94,7 +94,7 @@ papers:
     title: 'CVOCSemRPL: Class-Variance Optimized Clustering, Semantic Information Injection and Restricted Pseudo Labeling based Improved Semi-Supervised Few-Shot Learning'
     year: '2025'
   WxLYb5QAAAAJ:d1gkVwhDpl0C:
-    citations: 69
+    citations: 71
     title: 'AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings'
     year: '2021'
   WxLYb5QAAAAJ:eQOLeE2rZwMC:
@@ -122,7 +122,7 @@ papers:
     title: DILF-EN framework for class-incremental learning
     year: '2021'
   WxLYb5QAAAAJ:u-x6o8ySG0sC:
-    citations: 15
+    citations: 16
     title: 'Cpwc: Contextual point wise convolution for object recognition'
     year: '2020'
   WxLYb5QAAAAJ:u5HHmVD_uO8C:
