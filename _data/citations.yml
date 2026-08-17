@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: 'Supplementary Material: Calibrating CNNs for Lifelong Learning'
     year: Unknown Year
   WxLYb5QAAAAJ:KlAtU1dfN6UC:
-    citations: 7
+    citations: 6
     title: Leveraging joint incremental learning objective with data ensemble for class incremental learning
     year: '2023'
   WxLYb5QAAAAJ:LkGwnXOMwfcC:
