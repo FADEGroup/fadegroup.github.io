@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   WxLYb5QAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP
     year: '2020'
+  WxLYb5QAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'AuxDenseFeatAlign: Auxiliary Dense Feature Alignment for Medical Incremental Learning'
+    year: '2026'
   WxLYb5QAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: DILF-EN framework for Class-Incremental Learning
@@ -50,7 +54,7 @@ papers:
     title: 'RNNP: A Robust Few-Shot Learning Approach'
     year: '2021'
   WxLYb5QAAAAJ:UeHWp8X0CEIC:
-    citations: 103
+    citations: 104
     title: Calibrating CNNs for Lifelong Learning
     year: '2020'
   WxLYb5QAAAAJ:W7OEmFMy1HYC:
@@ -64,7 +68,7 @@ papers:
   WxLYb5QAAAAJ:Wp0gIr-vW9MC:
     citations: 0
     title: Semantic-Anchored, Class Variance-Optimized Clustering for Robust Semi-Supervised Few-Shot Learning
-    year: '2025'
+    year: '2026'
   WxLYb5QAAAAJ:Y0pCki6q_DkC:
     citations: 5
     title: Calibrating feature maps for deep CNNs
@@ -97,6 +101,10 @@ papers:
     citations: 71
     title: 'AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings'
     year: '2021'
+  WxLYb5QAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: Logit-Origin Centering for Singleton Test-Time Adaptation
+    year: '2026'
   WxLYb5QAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'Supplementary Material: Rectification-based Knowledge Retention for Continual Learning'
